@@ -4,10 +4,6 @@ import javax.jws.WebService;
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
 import java.sql.*;
-/**
- *
- * @author admin
- */
 @WebService(serviceName = "ip14server")
 public class ip14server {
 
